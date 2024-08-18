@@ -1,0 +1,36 @@
+
+/* comentario en css */
+
+h1{
+    color: blue;
+
+}
+
+/* nosotros tenemos varias maneras de aplicar estilos a nuestros elementos, podemos aplicar estilos por = */
+
+/* Primera manera: 
+    nombres de etiquetas por ejemplo h1, h2, header, mian, etc */
+
+/* Segunda manera: 
+    por class */
+
+/* Tercera manera:
+    por id (es unico)*/
+
+    p{
+        color: red;
+    }
+
+    /* mediante class aplico propiedades */
+    
+    .parrafo{ 
+        color: green;
+    }
+
+    /* mediante id aplicamos estilos */
+
+    #parra{
+        color: pink;
+    }
+
+    
