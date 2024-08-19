@@ -33,4 +33,13 @@ h1{
         color: pink;
     }
 
-    
+    .Final{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 80px;
+        background-color: darkred;
+        color: white;
+        border-radius: 10px;
+        height: 100px;
+    }
